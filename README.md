@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHEERLA%20NITHINSAI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Credit%20Risk%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHEERLA%20NITHINSAI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Credit%20Risk%20%7C&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -79,7 +79,8 @@ class DataScientist:
 🔵 2025-02          [Kapitus] Reduced 8,800 vars → 392 with ShapRFECV + WOE Encoding
 🟢 2022-08          [IIT BBS] Automated 30yrs of SPI Drought Analysis (MATLAB → -80% processing time)
 🟡 2023-05          [IIT BBS] B.Tech Civil Engineering — Graduated
-⭐ 2019             [JEE Mains] AIR 2462 — Entered IIT Bhubaneswar
+⭐ 2019             [JEE Advanced] Entered IIT Bhubaneswar
+⭐ 2019             [JEE Mains] AIR 2462
 ⭐ 2019             [NDA Exam] Cleared — Top 2-3% of candidates
 ```
 
