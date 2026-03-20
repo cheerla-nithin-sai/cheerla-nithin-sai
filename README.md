@@ -166,11 +166,11 @@ class DataScientist:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="[https://www.linkedin.com/in/nithin-sai-c-8a6a88194](https://www.linkedin.com/in/nithin-sai-c-8a6a88194/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/YOUR-LEETCODE-HERE">
+  <a href="[https://leetcode.com/cns0007](https://leetcode.com/u/cns0007/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
