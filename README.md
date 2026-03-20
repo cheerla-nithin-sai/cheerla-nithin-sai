@@ -20,15 +20,11 @@ class DataScientist:
         self.name         = "Cheerla Nithinsai"
         self.role         = "Data Scientist @ Kapitus"
         self.education    = "B.Tech Civil Engg — IIT Bhubaneswar (2019–2023)"
-        self.superpower   = "Transforming 8,800 noisy variables → 392 high-signal predictors"
         self.current_work = [
-            "Credit Risk Model v5.1 (LightGBM | AUC: 0.73)",
-            "Behavior Score Pipeline for Equipment Finance (800K+ merchants)"
+            "Developing Credit Risk Models"
         ]
         self.mantra       = "If it can't be measured, it can't be managed. 📊"
 
-    def get_fun_fact(self):
-        return "I went from analyzing watersheds at IIT to analyzing creditworthiness at a fintech 💧→💳"
 ```
 
 <br>
