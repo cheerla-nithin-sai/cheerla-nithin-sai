@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🧠+Turning+Raw+Data+into+Lending+Decisions;⚡+AUC+0.67+→+0.73%3F+That's+my+kind+of+lift.;🏗️+Building+Credit+Risk+Models+at+Scale;🔍+8%2C800+features+in%2C+392+out+—+Signal+only.;🚀+IIT+BBS+→+Data+Science+→+Kapitus" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🧠+Turning+Raw+Data+into+Lending+Decisions;🏗️+Building+Credit+Risk+Models+at+Scale;🚀+IIT+BBS+→+Data+Science+→+Kapitus" alt="Typing SVG" />
   </a>
 </p>
 
