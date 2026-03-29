@@ -78,7 +78,6 @@ class DataScientist:
 🟢 2022-08          [IIT BBS] Automated 30yrs of SPI Drought Analysis (MATLAB → -80% processing time)
 🟡 2023-05          [IIT BBS] B.Tech Civil Engineering — Graduated
 ⭐ 2019             [JEE Advanced] Entered IIT Bhubaneswar
-⭐ 2019             [JEE Mains] AIR 2462
 ⭐ 2019             [NDA Exam] Cleared — Top 2-3% of candidates
 ```
 
