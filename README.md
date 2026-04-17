@@ -21,7 +21,6 @@ class DataScientist:
         self.role         = "Data Scientist @ Kapitus"
         self.education    = "B.Tech — IIT Bhubaneswar (2019–2023)"
         self.current_work = "Developing Credit Risk Models"
-        self.mantra       = "If it can't be measured, it can't be managed. 📊"
 
 ```
 
